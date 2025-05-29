@@ -1,0 +1,12 @@
+{
+  "name": "player",
+  "version": "1.0.0",
+  "description": "music player",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "woafi",
+  "license": "ISC"
+}
